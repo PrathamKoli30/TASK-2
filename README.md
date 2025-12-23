@@ -22,8 +22,3 @@ This project is ideal for beginners to understand JavaScript timing functions an
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla JS)** – Stopwatch logic and event handling  
-
----
-
-## 📂 Project Structure
-
